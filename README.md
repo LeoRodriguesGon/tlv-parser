@@ -76,9 +76,9 @@ The inputs are expected to be ASCII Strings, similar the example shown above.
 
 
 ### Summary:
-* git clone repo
-    * code is in: associate-developer-exercise\src\main\java\com\ul
-    * tests are in: associate-developer-exercise\src\test\java\com\ul
+* clone repo `git clone https://github.com/michaelvaldes/tlv-parser.git`
+    * code is in: src\main\java\com\ul
+    * tests are in: src\test\java\com\ul
 * install with `./gradlew.bat`
 * run tests with `./gradlew.bat test`
 * fix the broken tests by updating com.ul.TlvParser
